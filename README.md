@@ -4,12 +4,12 @@ BitTorrent Extension for Peers to Fetch Metadata Files (BEP 9)
 
 # Install
 ```bash
-go get github.com/fanpei91/metawire
+go get github.com/imajeason/metawire
 ```
 
 # Uasge
 ```go
-import "github.com/fanpei91/metawire"
+import "github.com/imajeason/metawire"
 ```
 
 # API
