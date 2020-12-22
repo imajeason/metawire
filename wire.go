@@ -15,7 +15,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/fanpei91/bencode"
+	"github.com/imajeason/bencode"
 )
 
 const (
